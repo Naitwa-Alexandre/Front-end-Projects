@@ -49,3 +49,19 @@ h2 span
     background: #e80202;
     box-shadow: 10px 10px 50px rgba(0, 0, 0, 0.2);
 }
+h2.portfolio
+{
+    margin-top: 500px;
+    position: absolute;
+    color: #fff;
+    text-align: center;
+    font-size: 12vw;
+    line-height: 0.6em;
+    z-index: 1000;
+    font-weight: 900;
+    font-size: 2em;
+    letter-spacing: 0.4em;
+    font-weight: 400;
+    text-transform: uppercase;
+
+}
